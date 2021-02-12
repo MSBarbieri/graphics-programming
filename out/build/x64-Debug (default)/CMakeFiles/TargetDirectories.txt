@@ -1,3 +1,17 @@
 C:/projects/graphics-programming/out/build/x64-Debug (default)/CMakeFiles/graphics-programming.dir
+C:/projects/graphics-programming/out/build/x64-Debug (default)/CMakeFiles/install/local.dir
+C:/projects/graphics-programming/out/build/x64-Debug (default)/CMakeFiles/install.dir
 C:/projects/graphics-programming/out/build/x64-Debug (default)/CMakeFiles/edit_cache.dir
 C:/projects/graphics-programming/out/build/x64-Debug (default)/CMakeFiles/rebuild_cache.dir
+C:/projects/graphics-programming/out/build/x64-Debug (default)/CMakeFiles/list_install_components.dir
+C:/projects/graphics-programming/out/build/x64-Debug (default)/third_party/CMakeFiles/install/local.dir
+C:/projects/graphics-programming/out/build/x64-Debug (default)/third_party/CMakeFiles/install.dir
+C:/projects/graphics-programming/out/build/x64-Debug (default)/third_party/CMakeFiles/edit_cache.dir
+C:/projects/graphics-programming/out/build/x64-Debug (default)/third_party/CMakeFiles/rebuild_cache.dir
+C:/projects/graphics-programming/out/build/x64-Debug (default)/third_party/CMakeFiles/list_install_components.dir
+C:/projects/graphics-programming/out/build/x64-Debug (default)/third_party/engine/CMakeFiles/engine.dir
+C:/projects/graphics-programming/out/build/x64-Debug (default)/third_party/engine/CMakeFiles/install/local.dir
+C:/projects/graphics-programming/out/build/x64-Debug (default)/third_party/engine/CMakeFiles/install.dir
+C:/projects/graphics-programming/out/build/x64-Debug (default)/third_party/engine/CMakeFiles/edit_cache.dir
+C:/projects/graphics-programming/out/build/x64-Debug (default)/third_party/engine/CMakeFiles/rebuild_cache.dir
+C:/projects/graphics-programming/out/build/x64-Debug (default)/third_party/engine/CMakeFiles/list_install_components.dir

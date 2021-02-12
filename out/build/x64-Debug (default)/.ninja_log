@@ -1,3 +1,11 @@
 # ninja log v5
 0	413	634790217	CMakeFiles/graphics-programming.dir/graphics-programming.cpp.obj	97e7224fc1b40207
 413	908	634790217	graphics-programming.exe	615650828bb9cff9
+3	556	634795284	CMakeFiles/graphics-programming.dir/graphics-programming.cpp.obj	2648f63be6e05549
+1	299	634795390	CMakeFiles/graphics-programming.dir/graphics-programming.cpp.obj	2648f63be6e05549
+3	299	634795390	CMakeFiles/graphics-programming.dir/third_party/engine/src/engine.cpp.obj	51dcf6fa7c71ab83
+5	304	634795390	third_party/engine/CMakeFiles/engine.dir/src/engine.cpp.obj	554314b11e9f75bb
+304	564	634795390	third_party/engine/engine.dll	9da2b2fe6f9057c6
+304	564	634795390	third_party/engine/engine.lib	9da2b2fe6f9057c6
+1	232	634795390	third_party/engine/engine.dll	9da2b2fe6f9057c6
+1	232	634795390	third_party/engine/engine.lib	9da2b2fe6f9057c6

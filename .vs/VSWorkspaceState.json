@@ -1,8 +1,9 @@
 {
   "ExpandedNodes": [
     "",
-    "\\third_party"
+    "\\third_party",
+    "\\third_party\\engine"
   ],
-  "SelectedNode": "\\.gitignore",
+  "SelectedNode": "\\third_party\\engine\\CmakeLists.txt",
   "PreviewInSolutionExplorer": false
 }

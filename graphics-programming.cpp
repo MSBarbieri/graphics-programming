@@ -2,11 +2,13 @@
 //
 
 #include "graphics-programming.h"
+#include <engine/engine.hpp>
 
 using namespace std;
 
 int main()
 {
-	cout << "Hello CMake." << endl;
+	auto engine = Engine();
+	engine.test();
 	return 0;
 }
