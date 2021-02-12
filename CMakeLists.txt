@@ -8,4 +8,5 @@ project ("graphics-programming")
 # Add source to this project's executable.
 add_executable (graphics-programming "graphics-programming.cpp" "graphics-programming.h")
 
+
 # TODO: Add tests and install targets if needed.
