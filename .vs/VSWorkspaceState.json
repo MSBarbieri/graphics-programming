@@ -2,8 +2,10 @@
   "ExpandedNodes": [
     "",
     "\\third_party",
-    "\\third_party\\engine"
+    "\\third_party\\engine",
+    "\\third_party\\engine\\engine",
+    "\\third_party\\engine\\third_party"
   ],
-  "SelectedNode": "\\third_party\\engine\\CmakeLists.txt",
+  "SelectedNode": "\\third_party\\engine\\engine\\engine.cpp",
   "PreviewInSolutionExplorer": false
 }

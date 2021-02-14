@@ -1,7 +1,7 @@
 ﻿# CMakeList.txt : CMake project for graphics-programming, include source and define
 # project specific logic here.
 #
-cmake_minimum_required (VERSION 3.8)
+cmake_minimum_required (VERSION 3.10)
 set(CURRENT_FILES "")
 
 set(MAJOR_VERSION 0)
@@ -9,7 +9,7 @@ set(MINOR_VERSION 1)
 set(PATCH_VERSION 0)
 
 project ("graphics-programming")
-
+set(CMAKE_CXX_STANDARD 17)
 set(INCLUDES_LIST "")
 set(LINKS_LIST "")
 set(CFLAGS_LIST "")

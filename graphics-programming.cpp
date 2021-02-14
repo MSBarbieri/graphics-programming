@@ -8,7 +8,8 @@ using namespace std;
 
 int main()
 {
-	auto engine = Engine();
-	engine.test();
+	auto engine = Engine(800, 600, "basic window");
+
+	engine.run();
 	return 0;
 }
